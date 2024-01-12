@@ -1,4 +1,4 @@
-# predctive_maintenance_AUC-99.8
+# predctive_maintenance_AUC-99.7
 Classificação de falhas em máquinas industriais com dataset contendo 10000 (10 mil) exemplos - dados desbalanceados e com 6 classes diferentes, sendo a distribuição da seguinte forma:
 
     No Failure                  9652
