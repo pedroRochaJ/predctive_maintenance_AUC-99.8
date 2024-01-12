@@ -16,4 +16,4 @@ Classificação de falhas em máquinas industriais com dataset contendo 10000 (1
 Desempenho obtido com os modelos:
 
 
-![Captura de tela 2024-01-11 213614](https://github.com/pedroRochaJ/predctive_maintenance_AUC-99.8/assets/113612805/35029f0e-5216-4454-97d3-16c050469fa3)
+![Captura de tela 2024-01-12 102058](https://github.com/pedroRochaJ/predctive_maintenance_AUC-99.8/assets/113612805/7bfe620b-dafc-4d84-bce5-4c4f0be6de96)
